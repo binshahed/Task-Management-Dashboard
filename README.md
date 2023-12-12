@@ -3,9 +3,9 @@ Manage your task easily with our simple Task management App! It uses React and R
 
 ## Features:
 - ➕ Add, ✎ Edit, 🗑️ Delete tasks
-- :fa-glass: Filter tasks
-- :fa-check: Complete task
-- :fa-save: Save to Local Storage 
+- 🔍 Filter tasks
+- ✅ Complete task
+- 💾  Save to Local Storage 
 - ▶️ Load from Local Storage on reload
 
 ## Getting Started
