@@ -1,5 +1,6 @@
-# Task Management App with React and Redux 📝
+# [Task Management App with React and Redux](https://6578a38a5c4ebf0677fb5830--brilliant-daffodil-c0a935.netlify.app/) 📝
 Manage your task easily with our simple Task management App! It uses React and Redux to make adding, editing, and deleting tasks a breeze. Plus, it looks good with Styled Components and ensures things go smoothly with PropTypes.
+
 
 ## Features:
 - ➕ Add, ✎ Edit, 🗑️ Delete tasks
